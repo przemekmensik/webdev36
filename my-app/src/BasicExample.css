@@ -1,0 +1,20 @@
+ul li {
+  display: inline;
+  padding: 25px;
+}
+
+.home {
+  background-color: rgb(242, 6, 145);
+  height: 100vh;
+}
+
+.about {
+  background-color: rgb(75, 205, 22);
+  height: 100vh;
+}
+
+.slider {
+  height: 40vw;
+  width: 100vw;
+  background-color: rgb(166, 139, 181);
+}
